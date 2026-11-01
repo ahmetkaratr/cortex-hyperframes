@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "historyId": "c7ef00e1-9351-4760-967c-6c9003e26b79",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/1b/1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060"
+    },
+    "CLAUDE.md": {
+      "hash": "1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/1b/1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060"
+    },
+    "compositions/captions.html": {
+      "hash": "3d1130c7e0b4159e329a5ad2d4af0a376e6b0aa0673ebd42a49f2adb114e4887",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/3d/3d1130c7e0b4159e329a5ad2d4af0a376e6b0aa0673ebd42a49f2adb114e4887"
+    },
+    "compositions/overlays.html": {
+      "hash": "63f6d92fbebdf39b51de1bca3477960f0d790c3cfbc5d96aa06de3c716f5f8dc",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/63/63f6d92fbebdf39b51de1bca3477960f0d790c3cfbc5d96aa06de3c716f5f8dc"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "hyperframes.lock.json": {
+      "hash": "27a7ee6647e2b9f0fb6b2e9718123f0efe0ad1e5eea1b9c84f09dc83bbb7231d",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/27/27a7ee6647e2b9f0fb6b2e9718123f0efe0ad1e5eea1b9c84f09dc83bbb7231d"
+    },
+    "index.html": {
+      "hash": "7ce7fe630d5dafd84d62ce93be4efcf27fd48de66258f72908214ea137a8b5d7",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/7c/7ce7fe630d5dafd84d62ce93be4efcf27fd48de66258f72908214ea137a8b5d7"
+    },
+    "meta.json": {
+      "hash": "584efe330a69e928af8f7ad898877240a2d09af59ce782006c15def7f0a55393",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/58/584efe330a69e928af8f7ad898877240a2d09af59ce782006c15def7f0a55393"
+    },
+    "package.json": {
+      "hash": "ba625388158ccc01f515f1e941e1e765f4568b6448acce0d57762de033a32f0a",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/ba/ba625388158ccc01f515f1e941e1e765f4568b6448acce0d57762de033a32f0a"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  }
+}
