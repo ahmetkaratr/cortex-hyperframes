@@ -1,7 +1,7 @@
 {
   "version": 1,
   "historyId": "c7ef00e1-9351-4760-967c-6c9003e26b79",
-  "currentRevision": "ee89eeda-816f-4618-a96d-636f2efef147",
+  "currentRevision": "6cc2c5bc-6f8f-4a5e-bd3d-52d3a791c270",
   "pendingChanges": false,
   "files": {
     "AGENTS.md": {
@@ -17,8 +17,8 @@
       "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/3d/3d1130c7e0b4159e329a5ad2d4af0a376e6b0aa0673ebd42a49f2adb114e4887"
     },
     "compositions/overlays.html": {
-      "hash": "07bab4593d1d51fb787de1f4c1475cea2e15670433a4c6768f9a56231f79fea8",
-      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/07/07bab4593d1d51fb787de1f4c1475cea2e15670433a4c6768f9a56231f79fea8"
+      "hash": "2573d751c0bc67447b1e238f346be75616bf1d642094bfc5bdbc385abae947da",
+      "content": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/25/2573d751c0bc67447b1e238f346be75616bf1d642094bfc5bdbc385abae947da"
     },
     "hyperframes.json": {
       "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
@@ -84,6 +84,81 @@
         "compositions/overlays.html": {
           "before": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/63/63f6d92fbebdf39b51de1bca3477960f0d790c3cfbc5d96aa06de3c716f5f8dc",
           "after": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/07/07bab4593d1d51fb787de1f4c1475cea2e15670433a4c6768f9a56231f79fea8"
+        }
+      }
+    },
+    "87ac4ce1-a025-489f-b30b-7290e80d56fe": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793547043987,
+      "endedAt": 1793547045987,
+      "files": {
+        "compositions/overlays.html": {
+          "before": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/07/07bab4593d1d51fb787de1f4c1475cea2e15670433a4c6768f9a56231f79fea8",
+          "after": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/30/30d879d33496d0f347bcce79f2164bd58ba75a0c3d48276b873a0ba5e76a4c3a"
+        }
+      }
+    },
+    "806cfd87-59ae-4e62-8798-18062fc98576": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793547097707,
+      "endedAt": 1793547099708,
+      "files": {
+        "compositions/overlays.html": {
+          "before": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/30/30d879d33496d0f347bcce79f2164bd58ba75a0c3d48276b873a0ba5e76a4c3a",
+          "after": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/05/052fbb9b89d8942d50bfce35254a31c76cabd596bb55a7e75f4e5d7194f35bee"
+        }
+      }
+    },
+    "188d81b4-c01f-4b63-b96b-c9cf48aa2a13": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793547145772,
+      "endedAt": 1793547147774,
+      "files": {
+        "compositions/overlays.html": {
+          "before": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/05/052fbb9b89d8942d50bfce35254a31c76cabd596bb55a7e75f4e5d7194f35bee",
+          "after": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/44/44704eeb73e687c6eac077fc3e349b2cd7ca48264e04558491da2abc7ab15189"
+        }
+      }
+    },
+    "879864a0-d407-48ea-9e75-365f2e059869": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793547177804,
+      "endedAt": 1793547179806,
+      "files": {
+        "compositions/overlays.html": {
+          "before": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/44/44704eeb73e687c6eac077fc3e349b2cd7ca48264e04558491da2abc7ab15189",
+          "after": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/d2/d28913aa1969d81128da3c90dd54013cdef85870ba3087c4de4932a296091a9b"
+        }
+      }
+    },
+    "6cc2c5bc-6f8f-4a5e-bd3d-52d3a791c270": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793547269217,
+      "endedAt": 1793547271217,
+      "files": {
+        "compositions/overlays.html": {
+          "before": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/d2/d28913aa1969d81128da3c90dd54013cdef85870ba3087c4de4932a296091a9b",
+          "after": "/Users/ahmetkara/.cache/hyperframes/history/c7ef00e1-9351-4760-967c-6c9003e26b79/blobs/25/2573d751c0bc67447b1e238f346be75616bf1d642094bfc5bdbc385abae947da"
         }
       }
     }
